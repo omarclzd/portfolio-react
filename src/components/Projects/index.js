@@ -106,16 +106,8 @@ class Projects extends Component {
         id="pro"
         style={{ backgroundColor: "#321b45 " }}
       >
-        <MDBRow className="text-center">
-          <MDBCol>
-            <Zoom>
-              <p className=" white-text">
-                ---- Warning animation may happen beyon this line! ----
-              </p>
-            </Zoom>
-          </MDBCol>
-        </MDBRow>
-        \
+       
+     
         <div className="d-flex justify-content-center">
           <MDBContainer className="my-5 text-center">
             <MDBBtn
